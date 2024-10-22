@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/note/s3-objects/","tags":["note"]}
 ---
 
-# What are “objects” in [[S3 - Amazon Simple Storage Service\|S3]]?
+# What are “objects” in [[note/S3 - Amazon Simple Storage Service\|S3]]?
 
 > [!info] S3 utilizes an object-based model
 > The organization of files in Amazon S3 differs from traditional file systems, which typically rely on folders and a hierarchical structure. In S3, the storage structure is flat, and everything is managed by keys. 
